@@ -17,7 +17,7 @@ import com.rottygames.gdf.GameMainActivity;
 public class PlayState extends State {
     private Player player;
     private Cloud cloud, cloud2;
-    private int playerScore = 0;
+    //private int playerScore = 0;
     private static final int PLAYER_WIDTH = 100;
     private static final int PLAYER_HEIGHT = 150;
 
